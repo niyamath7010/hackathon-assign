@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
 .pic-size{
     height: 20px;
     /* padding-top: 10px; */
@@ -201,6 +206,7 @@ h4{
     width: 20px;
     padding-left: 10px;
     height: 30px;
+    padding-top: 10px;
     
 }
 
@@ -227,10 +233,17 @@ h4{
     width: 130px;
     border-radius: 10px;
 }
+.last-play{
+    width: 30px;
+    padding-left: 10px;
+    height: 50px;
+    /* padding-top: 10px; */
+}
 
 .color2{
     color: blanchedalmond;
     font-size: 10px;
+    padding-left: 10px;
 }
 
 .about-2{
