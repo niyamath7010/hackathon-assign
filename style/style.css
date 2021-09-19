@@ -1,0 +1,244 @@
+.pic-size{
+    height: 20px;
+    /* padding-top: 10px; */
+}
+
+.twitter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.google{
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.apple{
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.gmail{
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tweet-logo{
+    height: 500px;
+    width: 300px;
+}
+
+.login-div{
+    margin-left: 10px;
+}
+
+.tweet-logo2{
+    height: 50px;
+    width: 50px;
+}
+
+.login-div2{
+    padding: 20px;
+    
+}
+
+.href{
+    text-decoration: none;
+    color: black;
+}
+
+.href:hover{
+    color: brown;
+}
+
+.about{
+    /* margin-left: 70px;
+    max-width: 80%; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.terms-conditions{
+    text-decoration: none;
+    color: cadetblue;
+}
+.copy{
+   text-align: center;
+}
+
+.copy-right{
+    text-decoration: none;
+    color: rgb(45, 106, 219);
+    font-size: 20px;
+}
+.have-account{
+    text-decoration: none;
+    color: blue;
+}
+
+.rules{
+    text-decoration: none;
+    color: blue;
+}
+
+
+/* insta css */
+
+.insta-main{
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+}
+
+.insta{
+    width: 400px;
+    height: 600px;
+}
+
+
+.login{
+    margin-top: 10px;
+    background-color: rgb(65, 124, 179);
+    width: 200px;
+    padding-left: 10px;
+}
+
+.login-page{
+    
+    padding: 20px;
+   border: 1px solid rgb(219, 213, 213);
+   border-radius: 20px;
+   height: 300px;
+   
+}
+
+
+.facebook{
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.insta-title{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container-input{
+    padding: 20px;
+    
+}
+
+.input{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.fb-login{
+    width: 20px;
+}
+.fb-href{
+    text-decoration: none;
+    
+    
+
+}
+.fb-main{
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+.forgot{
+    text-decoration: none;
+    padding-left: 50px;
+    color: blue;
+}
+.last-div{
+    border: 1px solid rgb(219, 213, 213);
+    /* padding-top: 70px; */
+    margin-top: 60px;
+    height: 50px;
+    width: 290px;
+    justify-content: center;
+}
+
+.last-para{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.last-href{
+    text-decoration: none;
+    color: blue;
+}
+
+h4{
+    text-align: center;
+}
+.get-app{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.last-apple{
+    width: 20px;
+    padding-left: 10px;
+    height: 30px;
+    
+}
+
+.apple-store{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    border-radius: 10px;
+}
+.color{
+    color: blanchedalmond;
+    font-size: 10px;
+    padding-left: 5px;
+    
+}
+
+.google-store{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    border-radius: 10px;
+}
+
+.color2{
+    color: blanchedalmond;
+    font-size: 10px;
+}
+
+.about-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+    
+}
+
+.copy-insta{
+    text-align: center;
+ }
